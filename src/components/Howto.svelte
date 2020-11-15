@@ -4,7 +4,6 @@
   }
 </style>
 
-<p>How to</p>
 
 <div bp="grid">
   <img
