@@ -481,7 +481,7 @@ var app = (function () {
     	};
     }
 
-    const totalSeconds = 3;
+    const totalSeconds = 20;
 
     function instance$1($$self, $$props, $$invalidate) {
     	let secondLeft = totalSeconds;
